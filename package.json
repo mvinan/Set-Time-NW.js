@@ -1,0 +1,23 @@
+{
+  "name": "first-app",
+  "version": "0.1.0",
+  "description": "my first desktop app",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "clean-css": "^3.4.9",
+    "gulp": "^3.9.0"
+  },
+  "devDependencies": {
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-concat-css": "^2.2.0",
+    "gulp-sass": "^2.1.1",
+    "gulp-uglify": "^1.5.1",
+    "vinyl-map": "^1.0.1"
+  }
+}
